@@ -25,6 +25,9 @@ const Home = () => {
         Tubs are ephemeral and disappear after 48 hours, and hold only the
         latest 20 requests.
       </p>
+      <p className="mt-8 inline-block ">
+        This is a test feature.
+      </p>
       <p className="mt-8 inline-block ">Click "Create Tub" to get started!</p>
       <button
         disabled={disabled}
